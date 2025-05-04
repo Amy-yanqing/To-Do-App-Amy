@@ -1,7 +1,3 @@
-# BACKEND FULL COURSE - Node.JS Express.JS Prisma PostgreSQL & Docker
-
-This guide provides an overview of the codebase, the functionality of the app, and detailed instructions on how to set up and run the app. Make sure to follow all steps carefully, especially regarding Node.js version requirements.
-
 ## Overview
 
 This is an **Dockerized** and authentication-protected Todo App using **Node.js**, **Express.js**, **bcrypt**, **JWT authentication**, **Prisma**, and **PostgreSQL**. The app allows users to:
